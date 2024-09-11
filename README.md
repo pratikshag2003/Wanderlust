@@ -1,9 +1,15 @@
 Key Features: 
+
 ✅ User Authentication: Secure login, logout, and profile management. 
+
 ✅ CRUD Operations: Easily add, edit, and delete listings. 
+
 ✅ Review System: Leave feedback and reviews on places visited. 
+
 ✅ Account Management: Update personal details and passwords with ease.
+
 ✅ Data Security: Password encryption and hashing for optimal security. 
+
 ✅ Interactive Maps: Using Microsoft Azure Bing Maps for an immersive location experience.
 
 
